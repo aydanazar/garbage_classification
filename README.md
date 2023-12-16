@@ -2,10 +2,14 @@
 
 ### 281 Final Project
 
-Final Report - Final_Report.pdf
+Final Report - 
+*Final_Report.pdf*
 
-Logistic Regression Model - Classification_LogisticRegression.ipynb
+Logistic Regression Model - 
+*Classification_LogisticRegression.ipynb*
 
-Perceptron Model - Classification_ResNet_Perceptron.ipynb
+Perceptron Model - 
+*Classification_ResNet_Perceptron.ipynb*
 
-Related Features and Models - features_and_models (folder)
+Related Features and Models - 
+*features_and_models (folder)*
